@@ -1,4 +1,4 @@
-name: PipelineWorkflow
+name: PipelineWorkFlow
 
 on:
   push:
